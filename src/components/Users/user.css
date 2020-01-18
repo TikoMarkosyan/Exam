@@ -1,0 +1,14 @@
+.flexs{
+  display: inline-flex;
+  margin: 2rem;
+}
+.user-img{
+  width: 100px;
+  height: 100px;
+  transition-duration: .1s;
+  border-radius: 50%;
+}
+.button{
+  display: block;
+  width: 100%;
+}
